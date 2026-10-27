@@ -2,7 +2,7 @@
 
 ### 🔥🔥🔥 [[ICCV 2025 AISTORY Workshop] Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)
 
-> *[Yunlong Tang](https://yoloytang.me/)<sup>1</sup>, [Junjia Guo](https://www.linkedin.com/in/junjia-guo-b3a9b5336/)<sup>1</sup>, [Pinxin Liu](https://andypinxinliu.github.io/)<sup>1</sup>, [Zhiyuan Wang](https://scholar.google.com/citations?user=4TdiRMYAAAAJ)<sup>2</sup>, [Hang Hua](https://hanghuacs.notion.site/)<sup>1</sup>, [Jia-Xing Zhong](https://www.cs.ox.ac.uk/people/jiaxing.zhong/)<sup>3</sup>, [Yunzhong Xiao](https://shawn-yzxiao.github.io/)<sup>4</sup>, [Chao Huang](https://wikichao.github.io/)<sup>1</sup>, [Luchuan Song](https://songluchuan.github.io/)<sup>1</sup>, [Susan Liang](https://liangsusan-git.github.io/)<sup>1</sup>, [Yizhi Song](https://song630.github.io/yizhisong.github.io/)<sup>5</sup>, [Liu He](https://arking1995.github.io/)<sup>5</sup>, [Jing Bi](https://jing-bi.github.io/)<sup>1</sup>, [Mingqian Feng](https://fmmarkmq.github.io/)<sup>1</sup>, [Xinyang Li](https://www.linkedin.com/in/xinyang-li-44a5a9287/)<sup>1</sup>, [Zeliang Zhang](https://zhangaipi.github.io/)<sup>1</sup>, [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html)<sup>1</sup>*  
+> *[Yolo Y. Tang](https://yoloytang.me/)<sup>1</sup>, [Junjia Guo](https://www.linkedin.com/in/junjia-guo-b3a9b5336/)<sup>1</sup>, [Pinxin Liu](https://andypinxinliu.github.io/)<sup>1</sup>, [Zhiyuan Wang](https://scholar.google.com/citations?user=4TdiRMYAAAAJ)<sup>2</sup>, [Hang Hua](https://hanghuacs.notion.site/)<sup>1</sup>, [Jia-Xing Zhong](https://www.cs.ox.ac.uk/people/jiaxing.zhong/)<sup>3</sup>, [Yunzhong Xiao](https://shawn-yzxiao.github.io/)<sup>4</sup>, [Chao Huang](https://wikichao.github.io/)<sup>1</sup>, [Luchuan Song](https://songluchuan.github.io/)<sup>1</sup>, [Susan Liang](https://liangsusan-git.github.io/)<sup>1</sup>, [Yizhi Song](https://song630.github.io/yizhisong.github.io/)<sup>5</sup>, [Liu He](https://arking1995.github.io/)<sup>5</sup>, [Jing Bi](https://jing-bi.github.io/)<sup>1</sup>, [Mingqian Feng](https://fmmarkmq.github.io/)<sup>1</sup>, [Xinyang Li](https://www.linkedin.com/in/xinyang-li-44a5a9287/)<sup>1</sup>, [Zeliang Zhang](https://zhangaipi.github.io/)<sup>1</sup>, [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html)<sup>1</sup>*  
 
 *<sup>1</sup>University of Rochester, <sup>2</sup>UCSB, <sup>3</sup>University of Oxford, <sup>4</sup>CMU, <sup>5</sup>Purdue University*
 
@@ -79,7 +79,7 @@ If you find our survey useful, please cite the following paper:
 ```bibtex
 @article{tang2025ai4anime,
      title={Generative AI for Cel-Animation: A Survey},
-     author={Tang, Yunlong and Guo, Junjia and Liu, Pinxin and Wang, Zhiyuan and Hua, Hang and Zhong, Jia-Xing and Xiao, Yunzhong and Huang, Chao and Song, Luchuan and Liang, Susan and Song, Yizhi and He, Liu and Bi, Jing and Feng, Mingqian and Li, Xinyang and Zhang, Zeliang and Xu, Chenliang},
+     author={Tang, Yolo Y. and Guo, Junjia and Liu, Pinxin and Wang, Zhiyuan and Hua, Hang and Zhong, Jia-Xing and Xiao, Yunzhong and Huang, Chao and Song, Luchuan and Liang, Susan and Song, Yizhi and He, Liu and Bi, Jing and Feng, Mingqian and Li, Xinyang and Zhang, Zeliang and Xu, Chenliang},
      journal={arXiv preprint arXiv:2501.06250},
      url={https://arxiv.org/abs/2501.06250},
      year={2025}
@@ -259,7 +259,7 @@ If you find our survey useful, please cite the following paper:
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
-| [**Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward**](https://arxiv.org/abs/2209.12164v1) | Yunlong Tang, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng | [Code](https://github.com/yoloytang/Ads-1k) | ACCV 2022    |
+| [**Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward**](https://arxiv.org/abs/2209.12164v1) | Yolo Y. Tang, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng | [Code](https://github.com/yoloytang/Ads-1k) | ACCV 2022    |
 | [**Reframe Anything: LLM Agent for Open World Video Reframing**](https://arxiv.org/abs/2403.06070) | Jiawang Cao, Yongliang Wu, Weiheng Chi, Wenbo Zhu, Ziyue Su, Jay Wu | |              |
 | [**OpusClip**](https://www.opus.pro/)                                                            | OpusClip Team                                                                                      |                                                                                                     |              |
 
@@ -301,7 +301,7 @@ If you find our survey useful, please cite the following paper:
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
 | [**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production**](https://arxiv.org/abs/2401.03499) | Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer | | TBA 2024     |
-| [**Scaling Concept With Text-Guided Diffusion Models**](https://arxiv.org/abs/2410.24151)        | Chao Huang, Susan Liang, Yunlong Tang, Yapeng Tian, Anurag Kumar, Chenliang Xu                      | [Project Page](https://wikichao.github.io/ScalingConcept/) [Code](https://github.com/WikiChao/ScalingConcept) | ICLR 2025|
+| [**Scaling Concept With Text-Guided Diffusion Models**](https://arxiv.org/abs/2410.24151)        | Chao Huang, Susan Liang, Yolo Y. Tang, Yapeng Tian, Anurag Kumar, Chenliang Xu                      | [Project Page](https://wikichao.github.io/ScalingConcept/) [Code](https://github.com/WikiChao/ScalingConcept) | ICLR 2025|
 
 
 
@@ -353,7 +353,7 @@ If you find our survey useful, please cite the following paper:
 
 Our project wouldn't be possible without the contributions of these amazing people! Thank you all for making this project better.
 
-[Yunlong Tang](https://yoloytang.me) @ University of Rochester \
+[Yolo Y. Tang](https://yoloytang.me) @ University of Rochester \
 [Junjia Guo](https://github.com/DouJiangTer) @ University of Rochester \
 [Pinxin Liu](https://andypinxinliu.github.io) @ University of Rochester \
 [Zhiyuan Wang](https://scholar.google.com/citations?user=4TdiRMYAAAAJ&hl=en) @ UCSB \
